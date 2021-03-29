@@ -11,7 +11,7 @@ RTRT-Trans&Caustics
 
 如果想要使用我们的工作，请引用我们的论文<sup>[1]</sup>。
 
-[论文链接](https://www.sciencedirect.com/science/article/pii/S009784932100039X "中文版本将在明年在知网可查。")
+[论文链接](https://www.sciencedirect.com/science/article/pii/S009784932100039X "中文版本将在知网可查。")
 
 安装
 ---
@@ -42,6 +42,7 @@ RTRT-Trans&Caustics
 ### 在UE4中应用本文工作
 
 将`Post Process Volume`拖入场景中，并将参数`Ray Tracing Translucency`设置为`Ray Tracing`。
+请访问[这篇教程](https://docs.unrealengine.com/en-US/RenderingAndGraphics/RayTracing/RayTracingSettings/index.html)以查看更多关于在UE4中使用实施光线追踪的设置。
 
 ![Setting](./Demo/Figs/Setup.png)
 
