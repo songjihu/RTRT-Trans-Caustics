@@ -41,7 +41,8 @@ Usage
 
 ### Enable our work in UE4
 
-Drag a `Post Process Volume` actor to the scene and change the value `Ray Tracing Translucency` to `Ray Tracing`.
+Drag a `Post Process Volume` actor to the scene and switch the property `Ray Tracing Translucency` to `Ray Tracing`.
+For more details, please check this [toturial](https://docs.unrealengine.com/en-US/RenderingAndGraphics/RayTracing/RayTracingSettings/index.html) from the Unreal Engine Documatation.
 
 ![Setting](./Demo/Figs/Setup.png)
 
