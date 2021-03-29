@@ -99,7 +99,7 @@ References
     pages = {-},
     year = {2021},
     doi = {10.1016/j.cag.2021.03.003},
-    author = {Xin Wang and Risong Zhang}
+    author = {Wang, Xin and Zhang, Risong}
     }
 ```
 
@@ -121,7 +121,7 @@ References
 
 ```
 [3] @Misc{RTXGI2020,
-	author = {Yaobin Ouyang and Xueqing Yang},
+	author = {Ouyang, Yaobin and Yang, Xueqing},
 	title = {Generating Ray-Traced Caustic Effects in Unreal Engine 4, Part 1},
 	date = {2020-12-08},
 	url ={https://developer.nvidia.com/blog/generating-ray-traced-caustic-effects-in-unreal-engine-4-part-1/},
