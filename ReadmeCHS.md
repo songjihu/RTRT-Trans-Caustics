@@ -12,6 +12,7 @@ RTRT-Trans&Caustics
 如果想要使用我们的工作，请引用我们的论文<sup>[1]</sup>。
 
 [论文链接](https://www.sciencedirect.com/science/article/pii/S009784932100039X "中文版本将在知网可查。")
+[50天免费链接](https://authors.elsevier.com/c/1csuo_2EOxPkV7)
 
 安装
 ---
@@ -95,7 +96,7 @@ P.S. 我们提供了一个已经配置好并且带有多个示例场景的[示�
     title = {Rendering Transparent Objects with Caustics using Real-Time Ray Tracing},
     journal = {Computers & Graphics},
     volume = {96},
-    pages = {-},
+    pages = {36-47},
     year = {2021},
     doi = {10.1016/j.cag.2021.03.003},
     author = {Xin Wang and Risong Zhang}
