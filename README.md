@@ -10,7 +10,7 @@ It approximates several transparency features, including reflections/refractions
 The results are relatively noise free and a step up over the prior raster hacks in that the model plays together into a cohesive whole, rather than being individual effects.
 Should you be making use of our work, please cite our paper<sup>[1]</sup>.
 
-[Paper](https://www.sciencedirect.com/science/article/pii/S009784932100039X "The paper is now available online.")
+[Paper](https://www.sciencedirect.com/science/article/pii/S009784932100039X "The paper is now available online.") | 
 [50-day free link](https://authors.elsevier.com/c/1csuo_2EOxPkV7)
 
 Setup
