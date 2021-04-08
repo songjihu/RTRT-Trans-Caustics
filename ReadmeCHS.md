@@ -11,7 +11,7 @@ RTRT-Trans&Caustics
 
 如果想要使用我们的工作，请引用我们的论文<sup>[1]</sup>。
 
-[论文链接](https://www.sciencedirect.com/science/article/pii/S009784932100039X "中文版本将在知网可查。")
+[论文链接](https://www.sciencedirect.com/science/article/pii/S009784932100039X "中文版本将在知网可查。") | 
 [50天免费链接](https://authors.elsevier.com/c/1csuo_2EOxPkV7)
 
 安装
